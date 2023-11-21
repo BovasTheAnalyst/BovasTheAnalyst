@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bovas The Analyst
+- 👋 Hi, I’m @Bovas Mathew Babu
 - 👀 I’m interested in building visualizations and insights from datas.
 - 🌱 I’m currently learning data analytical skills and various tools.
 - 💞️ I’m looking to collaborate on data analysis projects.
